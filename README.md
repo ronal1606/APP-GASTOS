@@ -133,47 +133,7 @@ expense-tracker/
 - **[Expo Linear Gradient](https://docs.expo.dev/versions/latest/sdk/linear-gradient/)** - Gradientes
 - **[React Native Chart Kit](https://github.com/indiespirit/react-native-chart-kit)** - Gráficos
 
----
-
-## 📱 Publicación
-
-### Preparación para Google Play Store
-
-1. **Configura el Package Name**
-   
-   Edita `app.config.js`:
-   ```javascript
-   android: {
-     package: "com.tudominio.expensetracker",
-     versionCode: 1,
-   }
-   ```
-
-2. **Genera el APK/AAB**
-   ```bash
-   eas build --platform android
-   ```
-
-3. **Crea una cuenta en Google Play Console**
-   - Ve a [Google Play Console](https://play.google.com/console)
-   - Crea una nueva aplicación
-   - Completa la información requerida
-
-4. **Sube tu Build**
-   - Sube el archivo AAB generado
-   - Completa la información de la tienda
-   - Configura políticas de privacidad
-   - Envía para revisión
-
-### Requisitos para Publicación
-
-- ✅ Icono de la aplicación (1024x1024)
-- ✅ Imágenes de pantalla (al menos 2)
-- ✅ Descripción de la aplicación
-- ✅ Política de privacidad
-- ✅ Términos de servicio (opcional pero recomendado)
-
----
+###  IMAGES
 
 ## 🎨 Capturas de Pantalla
 
@@ -204,7 +164,7 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 **Tu Nombre**
 
 - GitHub: https://github.com/ronal1606
-- Email: tu-email@ejemplo.com
+- Email: ronalsanchez36@gmail.com
 
 ---
 
